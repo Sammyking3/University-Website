@@ -19,5 +19,5 @@ This is a responsive university website built with HTML and CSS. It serves as a 
 - CSS
 - JS
 
-## 📁 Folder Structure
+
 
