@@ -9,8 +9,7 @@ https://sammyking3.github.io/University-Website/
 - Homepage with hero section
 - About the university
 - Faculties and departments section
-- Admission information
-- Contact form layout
+- Contact
 
 ## Technologies Used
 - HTML
